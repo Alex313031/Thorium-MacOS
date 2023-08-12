@@ -1,6 +1,6 @@
 # Thorium Browser for MacOS
 
-<img src="https://github.com/Alex313031/Thorium-AVX2/blob/main/ThoriumLogo.png"> &nbsp;<img src="https://raw.githubusercontent.com/Alex313031/Thorium/main/logos/STAGING/apple.png" width="192">
+<img src="https://github.com/Alex313031/Thorium-Mac/blob/main/ThoriumLogo.png"> &nbsp;<img src="https://github.com/Alex313031/Thorium-Mac/blob/main/apple.png" width="192">
 
  &ndash; Simply a seperate repo to serve builds of [Thorium](https://thorium.rocks/) for MacOS. Both arm64 (M1) and x64 are supported.
 
