@@ -10,4 +10,4 @@ The main repo (and Linux builds) are located at > https://github.com/Alex313031/
 
 *Thanks for using Thorium!*
 
-<img src="https://github.com/Alex313031/Thorium/blob/main/logos/STAGING/Thorium90_504.jpg" width="200">
+<img src="Happy_Mac.svg" width="200">
